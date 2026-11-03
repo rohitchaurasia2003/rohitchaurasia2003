@@ -18,15 +18,15 @@ I am a **Computer Science Graduate** specializing in **Artificial Intelligence, 
 ## 🚀 Featured Projects
 
 ### SNAP Class: Intelligent AI Attendance (Face + Voice) 
-- **Python, Streamlit, Supabase, dlib, scikit-learn, Resemblyzer, librosa
+- Python, Streamlit, Supabase, dlib, scikit-learn, Resemblyzer, librosa
 
-- **Built a multimodal attendance system that identifies students by face and voice, with a
+- Built a multimodal attendance system that identifies students by face and voice, with a
 teacher review step before records are saved.
 
-- **Achieved [100]% identification accuracy on [10] students; measured false accept rate of
+- Achieved [100]% identification accuracy on [10] students; measured false accept rate of
 [0]% and false reject rate of [0]% on a held-out test set.
 
-- **Deployed as a live web app with a Supabase backend for storing attendance records.
+- Deployed as a live web app with a Supabase backend for storing attendance records.
 
 
 ## 🎯 Current Focus & Goals
