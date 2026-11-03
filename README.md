@@ -22,20 +22,7 @@ I am a **Computer Science Graduate** specializing in **Artificial Intelligence, 
 - **Tech Stack:** Python, OpenCV, Deep Learning models (like FaceNet/ResNet), Librosa, SQL.
 - **Key Outcome:** Created a seamless, automated, and spoof-resistant identification pipeline for real-time tracking.
 
-### 🎨 Neural Style Transfer with AdaIN
-- **What it does:** Implemented a real-time arbitrary style transfer network that applies the artistic style of any image onto a content image using Adaptive Instance Normalization.
-- **Tech Stack:** Python, PyTorch, Convolutional Neural Networks (CNNs), VGG-19 network.
-- **Key Outcome:** Successfully decoupled content and style features to generate high-quality artistic images instantly.
 
-### 🏋️ Real-time AI Gym Trainer
-- **What it does:** Developed a computer vision system that tracks human body posture during workouts to count repetitions and analyze exercise form.
-- **Tech Stack:** Python, MediaPipe, OpenCV, Scikit-Learn (or custom mathematical joint-angle logic).
-- **Key Outcome:** Provided real-time, automated audio/visual feedback to correct user posture and prevent workout injuries.
-
-### 📄 AI Resume ATS System
-- **What it does:** Built an Applicant Tracking System (ATS) that evaluates resumes against job descriptions, calculating match percentages and identifying missing keywords.
-- **Tech Stack:** Python, Natural Language Processing (NLP), Large Language Models (LLMs) or Gemini/OpenAI API, Streamlit.
-- **Key Outcome:** Automated the resume screening process to provide job seekers and recruiters with instant optimization suggestions.
 
 ## 🎯 Current Focus & Goals
 - 🚀 Designing and deploying end-to-end Machine Learning pipelines.
