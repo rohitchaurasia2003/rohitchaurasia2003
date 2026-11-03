@@ -17,11 +17,16 @@ I am a **Computer Science Graduate** specializing in **Artificial Intelligence, 
 
 ## 🚀 Featured Projects
 
-### 🤖 Intelligent AI Attendance - Face & Voice
-- **What it does:** Built a biometric attendance system utilizing multi-modal authentication (facial recognition and voice verification) for secure check-ins.
-- **Tech Stack:** Python, OpenCV, Deep Learning models (like FaceNet/ResNet), Librosa, SQL.
-- **Key Outcome:** Created a seamless, automated, and spoof-resistant identification pipeline for real-time tracking.
-
+### SNAP Class: Intelligent AI Attendance (Face + Voice) | Live demo | GitHub
+Python, Streamlit, Supabase, dlib, scikit-learn, Resemblyzer, librosa
+●
+Built a multimodal attendance system that identifies students by face and voice, with a
+teacher review step before records are saved.
+●
+Achieved [100]% identification accuracy on [10] students; measured false accept rate of
+[0]% and false reject rate of [0]% on a held-out test set.
+●
+Deployed as a live web app with a Supabase backend for storing attendance records.
 
 
 ## 🎯 Current Focus & Goals
